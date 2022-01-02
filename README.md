@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HRagab211
 - 👀 I’m interested in Software development and data analysis
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me (On DM )
 
 <!---
